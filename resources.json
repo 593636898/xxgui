@@ -2,7 +2,7 @@
   "assets": [
     {
       "path": "xxgsdk",
-      "url": "https://raw.githubusercontent.com/XXGUI/xxgui.github.io/refs/heads/main/assets/xxgsdk",
+      "url": "https://raw.githubusercontent.com/593636898/xxgui/master/assets/xxgsdk",
       "size": 1941320,
       "sha256": "d3fe8414d5504f216c747472ca7ab17fde6275f6aa6a17c5ea25dfb646dc19df"
     }
