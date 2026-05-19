@@ -14,8 +14,8 @@
 			  ],
 			"size": 256,
 			"gameType": "FPS",
-			"iconUrl": "https://raw.githubusercontent.com/XXGUI/xxgui.github.io/refs/heads/main/icon/%E4%B8%89%E8%A7%92%E6%B4%B2.png",
-			"downloadUrl": "https://raw.githubusercontent.com/XXGUI/xxgui.github.io/refs/heads/main/model/%E4%B8%89%E8%A7%92%E6%B4%B2Dawan-FP32-256.tflite"
+			"iconUrl": "https://raw.githubusercontent.com/593636898/xxgui/master/icon/%E4%B8%89%E8%A7%92%E6%B4%B2.png",
+			"downloadUrl": "https://raw.githubusercontent.com/593636898/xxgui/master/model/%E4%B8%89%E8%A7%92%E6%B4%B2Dawan-FP32-256.tflite"
 		},{
 			"modelName": "三角洲-敌我",
 			"precision": "INT8",
@@ -26,8 +26,8 @@
 			],
 			"size": 256,
 			"gameType": "FPS",
-			"iconUrl": "https://raw.githubusercontent.com/XXGUI/xxgui.github.io/refs/heads/main/icon/%E4%B8%89%E8%A7%92%E6%B4%B2.png",
-			"downloadUrl": "https://raw.githubusercontent.com/XXGUI/xxgui.github.io/refs/heads/main/model/%E4%B8%89%E8%A7%92%E6%B4%B2.tflite"
+			"iconUrl": "https://raw.githubusercontent.com/593636898/xxgui/master/icon/%E4%B8%89%E8%A7%92%E6%B4%B2.png",
+			"downloadUrl": "https://raw.githubusercontent.com/593636898/xxgui/master/model/%E4%B8%89%E8%A7%92%E6%B4%B2.tflite"
 		},{
 			"modelName": "瓦_256_v26s",
 			"precision": "INT8",
@@ -37,8 +37,8 @@
 			],
 			"size": 256,
 			"gameType": "FPS",
-			"iconUrl": "https://raw.githubusercontent.com/XXGUI/xxgui.github.io/refs/heads/main/icon/%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6.png",
-			"downloadUrl": "https://raw.githubusercontent.com/XXGUI/xxgui.github.io/refs/heads/main/model/%E7%93%A6_256_v26s.tflite"
+			"iconUrl": "https://raw.githubusercontent.com/593636898/xxgui/master/icon/%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6.png",
+			"downloadUrl": "https://raw.githubusercontent.com/593636898/xxgui/master/model/%E7%93%A6_256_v26s.tflite"
 		},{
 			"modelName": "瓦-黄色-256",
 			"precision": "FP32",
@@ -48,8 +48,8 @@
 			],
 			"size": 256,
 			"gameType": "FPS",
-			"iconUrl": "https://raw.githubusercontent.com/XXGUI/xxgui.github.io/refs/heads/main/icon/%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6.png",
-			"downloadUrl": "https://raw.githubusercontent.com/XXGUI/xxgui.github.io/refs/heads/main/model/%E7%93%A6-%E9%BB%84%E8%89%B2-256.ncnn"
+			"iconUrl": "https://raw.githubusercontent.com/593636898/xxgui/master/icon/%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6.png",
+			"downloadUrl": "https://raw.githubusercontent.com/593636898/xxgui/master/model/%E7%93%A6-%E9%BB%84%E8%89%B2-256.ncnn"
 		}
 	]
 }
