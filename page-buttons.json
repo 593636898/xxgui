@@ -1,0 +1,31 @@
+[
+  {
+    "pageId": "login",
+    "title": "登录页面",
+    "buttonGroups": [
+      {
+        "groupId": "shop",
+        "title": "主卡网",
+        "type": "webView",
+        "data": "https://pay.ldxp.cn/shop/xxg",
+        "color": "#00DB68",
+        "textColor": "#FFFFFF"
+      },{
+        "groupId": "shop",
+        "title": "副卡网",
+        "type": "webView",
+        "data": "https://pay.ldxp.cn/shop/YFCE9VJQ",
+        "color": "#1f883d",
+        "textColor": "#FFFFFF"
+      },
+      {
+        "groupId": "tg",
+        "title": "TG频道",
+        "type": "webView",
+        "data": "https://t.me/XXG_AI_AIM",
+        "color": "#00CAFC",
+        "textColor": "#FFFFFF"
+      }
+    ]
+  }
+]
