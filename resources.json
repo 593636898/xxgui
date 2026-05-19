@@ -13,13 +13,13 @@
       "files": [
         {
           "file": "libapexsupport.so",
-          "url": "https://raw.githubusercontent.com/XXGUI/593636898/xxgui/master/jniLibs/arm64-v8a/libapexsupport.so",
+          "url": "https://raw.githubusercontent.com/593636898/xxgui/master/jniLibs/arm64-v8a/libapexsupport.so",
           "size": 169736,
           "sha256": "946a3f0d3755897ea6281c32c92990c6aaacfee4bc50cbed07d1631eee2cc43a"
         },
         {
           "file": "libqnn_delegate_jni.so",
-          "url": "https://raw.githubusercontent.com/XXGUI/593636898/xxgui/master/jniLibs/arm64-v8a/libqnn_delegate_jni.so",
+          "url": "https://raw.githubusercontent.com/593636898/xxgui/master/jniLibs/arm64-v8a/libqnn_delegate_jni.so",
           "size": 279168,
           "sha256": "4eff9fc243f52d645f6c5fe100709fd5c6d6aca281a069fcab835347de5cd5f7"
         },
